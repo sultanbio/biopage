@@ -1,0 +1,64 @@
+@media(max-width:991.5px) {
+    .header-title {
+        font-size: 56px;
+    }
+    .nav-item {
+        margin-left: 0;
+        margin-top: 18px;
+    }
+
+
+    .st-block span {
+        font-size: 30px;
+    }
+
+    .st-block h3 {
+        font-size: 22px;
+    }
+
+    .info-block h2 {
+        font-size: 26px;
+    }
+    
+    
+
+    .v-block {
+        flex-direction: column;
+        padding-bottom: 75px;
+    }
+
+    .v-title {
+        margin-bottom: 25px;
+    }
+
+    .video-text {
+        width: 100%;
+        order:  1;
+    }
+
+    .video-frames {
+        text-align: center;
+        width: 100%;
+        order: 0 !important   ;
+        margin-bottom: 15px;
+    }
+    
+
+    .video-title {
+        font-size: 30px;
+        justify-content: flex-start !important;
+    }
+
+    .video-subtitle {
+        font-size: 24px;
+        margin-bottom: 15px;
+    }
+
+    .videoBtn {
+        font-size: 12px;
+    }
+
+    .video-frames img {
+        width: 100px;
+    }
+}
